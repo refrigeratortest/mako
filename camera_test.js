@@ -4,6 +4,7 @@
 var fs = require('fs');
 var spawn = require('child_process').spawn;
 var sleep = require('sleep');
+//var sleep = require('sleep');
 
 var inPinNo = '24';
 var count = 0;
